@@ -1,0 +1,42 @@
+﻿@model List<EntityLayer.Entities.Product>
+@{
+    ViewData["Title"] = "ProductsList";
+    Layout = "~/Views/Shared/_WhosalerLayout.cshtml";
+}
+
+<h4>ProductsList</h4>
+
+<table class="table">
+    <tr>
+        <th>Ürün Adı</th>
+        <th>Fiyat</th>
+        <th>Miktar</th>
+        <th>Resim</th>
+        <th>Durumu</th>
+        <th>Aktif Yap</th>
+        <th>Pasif Yap</th>
+    </tr>
+    <tbody>
+        @foreach(var i in Model)
+        {
+        <tr>
+            <td>@i.Name</td>
+            <td>@i.Price</td>
+            <td>@i.Quantity</td>
+            <td><img src="/Images/ProductImage/@i.ImagePath" width=30%; /></td>  
+
+            @if(i.Status==true)
+                {
+                    <td>Aktif</td>
+                }
+                else
+                {
+                    <td>Pasif</td>
+                }
+            <td><a class="btn btn-info" href="/wholesaler/Home/ProductActive/@i.Id">Aktif Yap</a></td>
+            <td><a class="btn btn-danger" href="/wholesaler/Home/ProductPasive/@i.Id">Pasif Yap</a></td>
+        </tr>
+        }
+    </tbody>
+</table>
+

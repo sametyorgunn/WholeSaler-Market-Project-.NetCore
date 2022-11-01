@@ -1,0 +1,21 @@
+﻿@model List<EntityLayer.Entities.Category>
+<section class="ftco-section ftco-category ftco-no-pt">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="row">
+                        @foreach(var i in Model)
+                        {
+                        <div class="col-md-3">
+                            <div class="category-wrap ftco-animate img mb-4 d-flex align-items-end" style="background-image: url(/Images/CategoryImage/@i.ImagePath);">
+                                <div class="text px-3 py-1">
+                                    <h2 class="mb-0"><a href="/Home/CategoryDetail/@i.Id">@i.Name</a></h2>
+                                </div>
+                            </div>
+                        </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>

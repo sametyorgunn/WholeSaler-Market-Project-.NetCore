@@ -1,0 +1,180 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ToptanciTakip
+build_property.RootNamespace = ToptanciTakip
+build_property.ProjectDir = C:\Users\asame\source\repos\ToptanciTakip\ToptanciTakip\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\asame\source\repos\ToptanciTakip\ToptanciTakip
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Areas/Market/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFya2V0XFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Areas/Market/Views/Stock/AddStockCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFya2V0XFZpZXdzXFN0b2NrXEFkZFN0b2NrQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Areas/Market/Views/Stock/AddStockProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFya2V0XFZpZXdzXFN0b2NrXEFkZFN0b2NrUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Areas/Market/Views/Stock/ProductList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFya2V0XFZpZXdzXFN0b2NrXFByb2R1Y3RMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Areas/Market/Views/Stock/StockCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFya2V0XFZpZXdzXFN0b2NrXFN0b2NrQ2F0ZWdvcmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Areas/wholesaler/Views/Home/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcd2hvbGVzYWxlclxWaWV3c1xIb21lXEFkZFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Areas/wholesaler/Views/Home/CategoryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcd2hvbGVzYWxlclxWaWV3c1xIb21lXENhdGVnb3J5TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Areas/wholesaler/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcd2hvbGVzYWxlclxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Areas/wholesaler/Views/Home/ProductRequests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcd2hvbGVzYWxlclxWaWV3c1xIb21lXFByb2R1Y3RSZXF1ZXN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Areas/wholesaler/Views/Home/ProductsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcd2hvbGVzYWxlclxWaWV3c1xIb21lXFByb2R1Y3RzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Areas/Yonetim/Views/Home/AddCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcWW9uZXRpbVxWaWV3c1xIb21lXEFkZENhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Areas/Yonetim/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcWW9uZXRpbVxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Areas/Yonetim/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcWW9uZXRpbVxWaWV3c1xMb2dpblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Home/CategoryDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXRlZ29yeURldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Home/Sepet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXBldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Home/SucribeMail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWNyaWJlTWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Home/Wholesalers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXaG9sZXNhbGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Home/WholesalersCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXaG9sZXNhbGVyc0NhdGVnb3JpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Home/WholesalersProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXaG9sZXNhbGVyc1Byb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Login/OnayKodu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cT25heUtvZHUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Login/SifremiUnuttum.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cU2lmcmVtaVVudXR0dW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Login/YeniSifre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cWWVuaVNpZnJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Shared/Components/Footer/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRm9vdGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Shared/Components/IndexCategories/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSW5kZXhDYXRlZ29yaWVzXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Shared/Components/NavbarContact/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2YmFyQ29udGFjdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Shared/Components/NavbarMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2YmFyTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Shared/Components/Referanslar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUmVmZXJhbnNsYXJcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Shared/Components/Slider/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2xpZGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Shared/LayoutPartials/HeadStyles/HeadStyle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFBhcnRpYWxzXEhlYWRTdHlsZXNcSGVhZFN0eWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Shared/LayoutPartials/Scripts/Script.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFBhcnRpYWxzXFNjcmlwdHNcU2NyaXB0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Shared/_BosLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Cb3NMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Shared/_MarketLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NYXJrZXRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Shared/_WhosalerLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9XaG9zYWxlckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Shared/_YonetimLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Zb25ldGltTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asame/source/repos/ToptanciTakip/ToptanciTakip/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6mrm8ejw29

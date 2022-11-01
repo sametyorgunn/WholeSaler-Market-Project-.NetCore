@@ -1,0 +1,43 @@
+﻿@model EntityLayer.Entities.Product
+@{
+    ViewData["Title"] = "AddProduct";
+    Layout = "~/Views/Shared/_WhosalerLayout.cshtml";
+}
+
+<h1>AddProduct</h1>
+
+
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group col-md-3">
+        <label for="exampleInputEmail1">Kategori</label>
+        @Html.DropDownListFor(x=>x.CategoryId,(List<SelectListItem>)ViewBag.categories,new { @class = "form-control"})
+    </div>
+    <br />
+    <div class="form-group col-md-3">
+        <label for="exampleInputEmail1">Ürün Adı</label>
+        <input type="text" class="form-control" id="exampleInputEmail1" name="Name" aria-describedby="emailHelp" placeholder="Ürün Adı">
+    </div>
+    <br />
+    <div class="form-group col-md-3">
+        <label for="exampleInputEmail1">Açıklama</label>
+        <input type="text" class="form-control" id="exampleInputEmail1" name="Description" aria-describedby="emailHelp" placeholder="Açıklama">
+    </div>
+    <br />
+    <div class="form-group col-md-3">
+        <label for="exampleInputEmail1">Miktar</label>
+        <input type="text" class="form-control" id="exampleInputEmail1" name="Quantity" aria-describedby="emailHelp" placeholder="Miktar">
+    </div>
+    <br />
+    <div class="form-group col-md-3">
+        <label for="exampleInputEmail1">Fiyat</label>
+        <input type="text" class="form-control" id="exampleInputEmail1" name="Price" aria-describedby="emailHelp" placeholder="Fiyat">
+    </div>
+    <br />
+    <div class="form-group col-md-3">
+        <label for="exampleInputEmail1">Resim Ekleyin</label>
+        <input type="file" class="form-control" id="exampleInputEmail1" name="Image" aria-describedby="emailHelp" placeholder="Resim">
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>

@@ -1,0 +1,34 @@
+﻿@model EntityLayer.Entities.Stock
+@{
+    ViewData["Title"] = "AddStockProduct";
+    Layout = "~/Views/Shared/_MarketLayout.cshtml";
+}
+
+
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group col-md-3">
+        <label for="exampleInputEmail1">Kategori adı</label>
+        @Html.DropDownListFor(x=>x.StocKCategoryId,(List<SelectListItem>)ViewBag.categories)
+    </div>
+    <br />
+    <div class="form-group col-md-3">
+        <label for="exampleInputEmail1">Ürün adı</label>
+        <input type="text" class="form-control" id="exampleInputEmail1" name="Name" aria-describedby="emailHelp" placeholder="Ürün Adı">
+    </div>
+    <br />
+    <div class="form-group col-md-3">
+        <label for="exampleInputEmail1">Miktar</label>
+        <input type="text" class="form-control" id="exampleInputEmail1" name="Quantity" aria-describedby="emailHelp" placeholder="Miktar">
+    </div>
+    <br />
+     <div class="form-group col-md-3">
+        <label for="exampleInputEmail1">Fiyat</label>
+        <input type="text" class="form-control" id="exampleInputEmail1" name="Price" aria-describedby="emailHelp" placeholder="Fiyat">
+    </div>
+    <br />
+   
+   
+
+
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>

@@ -1,0 +1,36 @@
+﻿@model List<EntityLayer.Entities.StockCategory>
+
+@{
+    ViewData["Title"] = "StockCategories";
+    Layout = "~/Views/Shared/_MarketLayout.cshtml";
+}
+
+<table class="table">
+    <tr>
+        <th>Kategori Adı</th>
+        <th>Durumu</th>
+        <th>Ürünleri Gör</th>
+        <th>Aktif Yap</th>
+        <th>Pasif Yap</th>
+    </tr>
+    <tbody>
+        @foreach(var i in Model)
+        {
+        <tr>
+            <td>@i.Name</td>
+            @if(i.Status==true)
+                {
+                    <td>Aktif</td>
+                }
+                else
+                {
+                    <td>Pasif</td>
+                }
+                
+            <td><a class="btn btn-success" href="/Market/Stock/ProductList/@i.Id">Ürünleri Gör</a></td>
+            <td><a class="btn btn-info" href="/Market/Stock/CategoryAktifYap">Aktif Yap</a></td>
+            <td><a class="btn btn-danger" href="/Market/Stock/CategoryPasifYap">Pasif Yap</a></td>
+        </tr>
+        }
+    </tbody>
+</table>

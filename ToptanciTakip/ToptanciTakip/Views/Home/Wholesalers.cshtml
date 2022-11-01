@@ -1,0 +1,27 @@
+﻿@model List<EntityLayer.Entities.AppUser>
+@{
+    ViewData["Title"] = "Wholesalers";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="ftco-section ftco-category ftco-no-pt">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="row">
+                        @foreach(var i in Model)
+                        {
+                        <div class="col-md-3">
+                            <div class="category-wrap ftco-animate img mb-4 d-flex align-items-end" style="background-image: url(/Template/images/category-1.jpg);">
+                                <div class="text px-3 py-1">
+                                    <h2 class="mb-0"><a href="/Home/WholesalersCategories/@i.Id">@i.CompanyName</a></h2>
+                                </div>
+                            </div>
+                        </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+</section>
+

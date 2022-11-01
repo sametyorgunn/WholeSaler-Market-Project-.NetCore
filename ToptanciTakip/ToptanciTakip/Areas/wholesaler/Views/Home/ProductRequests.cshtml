@@ -1,0 +1,19 @@
+﻿@model List<EntityLayer.Entities.ProductRequests>
+@{
+    ViewData["Title"] = "ProductRequests";
+    Layout = "~/Views/Shared/_WhosalerLayout.cshtml";
+}
+
+<h1>ProductRequests</h1>
+
+
+@foreach(var i in Model)
+{
+    <li>@i.MarketName</li>
+    <li>@i.MarketAdress</li>
+    <li>@i.MarketPhone</li>
+    <li>@i.ProductName</li>
+
+}
+
+
